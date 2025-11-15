@@ -1,7 +1,5 @@
 # 🎰 Hi there, I'm Saeed Ali
-<br>💻 Experienced in Full Stack Web Development and Game Development<br>🌱 Currently learning DevOps, Databases, CI/CD, and Docker<br>🔧 Skilled in building web applications, games, and scalable systems<br>🗂️ Experienced with Agile and Waterfall methodologies, writing user stories, acceptance criteria, creating personas, and using tools like Trello.</br>
-
-
+<br>💻 Experienced in Full Stack Web Development and Game Development<br>🌱 Currently learning DevOps, Databases, CI/CD, and Docker<br>🔧 Skilled in building web applications, games, and scalable systems<br>🗂️ Hands-on experience with Agile and Waterfall workflows, creating user stories, personas, acceptance critera, UML Diagrams, and using tools like Trello</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-ali-595368304) 
