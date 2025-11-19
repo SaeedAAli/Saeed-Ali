@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SaeedAAli/SaeedAAli/main/PinDown.io_%40Lauralzatec_1763590030.gif" 
        alt="Animated Banner" 
-       style="width:100%; max-width:1200px; height:auto;">
+       style="width:100%; height:auto; max-width:none;">
 </div>
 <h1 align="center">🎰 Hi I'm Saeed Ali</h1>
 <h3 align="center">Full Stack Web Development | Games Development | DevOps</h3>
