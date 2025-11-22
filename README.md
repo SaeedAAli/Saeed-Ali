@@ -1,10 +1,8 @@
-<br clear="both">
-
-<img align="left" height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsa2ZoZTd4bmJoZzZmaGwzcjhneW5jNHg5dnA2a3ZiczNzdnIzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
+<h1 align="center">Hi There I'm Saeed Ali</h1>
 
 ###
 
-<h1 align="center">Hi There I'm Saeed Ali</h1>
+<img align="right" height="215" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsa2ZoZTd4bmJoZzZmaGwzcjhneW5jNHg5dnA2a3ZiczNzdnIzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
 
 ###
 
