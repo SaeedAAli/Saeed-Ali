@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsa2ZoZTd4bmJoZzZmaGwzcjhneW5jNHg5dnA2a3ZiczNzdnIzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
+<img align="right" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsa2ZoZTd4bmJoZzZmaGwzcjhneW5jNHg5dnA2a3ZiczNzdnIzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
 
 ###
 
@@ -15,7 +15,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="saeed-ali-595368304" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -58,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">Stats :</h3>
 
 ###
 
